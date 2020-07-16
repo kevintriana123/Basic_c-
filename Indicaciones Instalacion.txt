@@ -1,0 +1,12 @@
+Se creo el sistema de notas con base de datos, realizar las siguientes indicaciones 
+para la ejecucion del proyecto:
+
+ - Ejecutar el scrip adjunto en SQL SERVER para la creacionde la base de datos
+	SQLQuery1.sql
+ - Modificar la conexion de la base de datos del proyecto EjerciciosWindows Forms
+   de los siguientes formularios
+	Ejercicio9.cs
+	estudiantes.cs
+	materias.cs
+	promedio.cs
+ - El proyecto se desarrollo en visual studio 2017 con version de Net Framework 4.7.2
